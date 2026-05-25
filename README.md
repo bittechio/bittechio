@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+AI+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Full+Stack Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
 
 
